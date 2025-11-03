@@ -26,6 +26,6 @@
 
 ### Задание 4
 
-![img](img/img2.png)
+![img](img/img3.png)
 
 ---
